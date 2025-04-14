@@ -178,7 +178,7 @@ If you're a student or engineer looking to add your own VLAN policies or support
 
 ## 👨‍💻 Author
 
-**Faizan Azad**  
+**Muhammad Faizan**  
 Electronics Engineer | Network & Cloud Professional  
 📍 Pakistan  
 🔗 [GitHub](https://github.com/azad-faizan) | 🔗 [LinkedIn](#)
