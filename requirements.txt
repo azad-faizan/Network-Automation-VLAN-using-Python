@@ -1,0 +1,6 @@
+Python        |   3.7 or higher              
+VS Code       |   Recommended IDE
+GNS3          |   2.2+           
+Netmiko       |   Latest (via pip)          
+Paramiko      |   Latest (via pip)          
+Cisco Device  |   IOSvL2 (Switch image in GNS3)
